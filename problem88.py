@@ -21,11 +21,14 @@
 # print(type(a))
 
 
-str1=input("Enter str1: ")
-str2=input("Enter str2: ")
+# str1=input("Enter str1: ")
+# str2=input("Enter str2: ")
 
-mi1=(len(str1)//2)
-mi2=(len(str2)//2)
+# mi1=(len(str1)//2)
+# mi2=(len(str2)//2)
 
-new_str = str1[0] + str1[mi1] + str1[-1] + str2[0] + str2[mi2] + str2[-1]
-print(new_str)
+# new_str = str1[0] + str1[mi1] + str1[-1] + str2[0] + str2[mi2] + str2[-1]
+# print(new_str)
+
+str="Anshu"
+print(len(str))
